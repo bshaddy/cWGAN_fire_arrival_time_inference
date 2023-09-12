@@ -1,0 +1,1 @@
+Included in this directory are the 20 WRF-SFIRE solutions used to create the training data for the cWGAN-based method for inferring fire arrival times from satellite measurements. Only the fire arrival times for each simulation are included here as this is the only output utilized for creating training data. Files are in .mat format.
